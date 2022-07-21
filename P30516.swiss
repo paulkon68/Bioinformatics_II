@@ -1,0 +1,73 @@
+ID   1B01_SAGOE              Reviewed;         365 AA.
+AC   P30516;
+DT   01-APR-1993, integrated into UniProtKB/Swiss-Prot.
+DT   01-APR-1993, sequence version 1.
+DT   01-MAY-2007, entry version 47.
+DE   Class I histocompatibility antigen, B alpha chain precursor.
+OS   Saguinus oedipus (Cotton-top tamarin).
+OC   Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+OC   Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+OC   Platyrrhini; Cebidae; Callitrichinae; Saguinus.
+OX   NCBI_TaxID=9490;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [MRNA].
+RX   MEDLINE=90111120; PubMed=2104912;
+RA   Watkins D.I., Letvin N.L., Hughes A.L., Tedder T.F.;
+RT   "Molecular cloning of cDNA that encode MHC class I molecules from a
+RT   New World primate (Saguinus oedipus). Natural selection acts at
+RT   positions that may affect peptide presentation to T cells.";
+RL   J. Immunol. 144:1136-1143(1990).
+CC   -!- FUNCTION: Involved in the presentation of foreign antigens to the
+CC       immune system.
+CC   -!- SUBUNIT: Heterodimer of an alpha chain and a beta chain (beta-2-
+CC       microglobulin).
+CC   -!- SUBCELLULAR LOCATION: Membrane; single-pass type I membrane
+CC       protein.
+CC   -!- SIMILARITY: Belongs to the MHC class I family.
+CC   -!- SIMILARITY: Contains 1 Ig-like C1-type (immunoglobulin-like)
+CC       domain.
+DR   EMBL; M33476; AAA36952.1; ALT_INIT; mRNA.
+DR   PIR; I72217; I72217.
+DR   HSSP; P30504; 1IM9.
+DR   SMR; P30516; 25-298.
+DR   InterPro; IPR007110; Ig-like.
+DR   InterPro; IPR013783; Ig-like_fold.
+DR   InterPro; IPR003597; Ig_C1-set.
+DR   InterPro; IPR003006; Ig_MHC.
+DR   InterPro; IPR001039; MHC_I_alpha_A1A2.
+DR   InterPro; IPR010579; MHC_I_alpha_C.
+DR   Gene3D; G3DSA:3.30.500.10; G3DSA:3.30.500.10; 1.
+DR   Gene3D; G3DSA:2.60.40.10; Ig-like_fold; 1.
+DR   Pfam; PF07654; C1-set; 1.
+DR   Pfam; PF00129; MHC_I; 1.
+DR   Pfam; PF06623; MHC_I_C; 1.
+DR   PRINTS; PR01638; MHCCLASSI.
+DR   ProDom; PD000050; MHC_I; 1.
+DR   SMART; SM00407; IGc1; 1.
+DR   PROSITE; PS50835; IG_LIKE; 1.
+DR   PROSITE; PS00290; IG_MHC; 1.
+KW   Glycoprotein; Immune response; Membrane; MHC I; Signal; Transmembrane.
+FT   SIGNAL        1     24       By similarity.
+FT   CHAIN        25    365       Class I histocompatibility antigen, B
+FT                                alpha chain.
+FT                                /FTId=PRO_0000018921.
+FT   TOPO_DOM     25    308       Extracellular (Potential).
+FT   TRANSMEM    309    332       Potential.
+FT   TOPO_DOM    333    365       Cytoplasmic (Potential).
+FT   DOMAIN      209    297       Ig-like C1-type.
+FT   REGION       25    114       Alpha-1.
+FT   REGION      115    206       Alpha-2.
+FT   REGION      207    298       Alpha-3.
+FT   REGION      299    308       Connecting peptide.
+FT   CARBOHYD    110    110       N-linked (GlcNAc...) (By similarity).
+FT   DISULFID    125    188       By similarity.
+FT   DISULFID    227    283       By similarity.
+SQ   SEQUENCE   365 AA;  40999 MW;  B79A9E1FE54C5634 CRC64;
+     MTVMAPRTLL LLLSGALVLT ETWAGSHSMR YFSTAVSRPG REEPRYIEVG YVDDTQFVRF
+     DSDAASPRME PRAQWVEKEG REYWEEETQR AKAFAQTFRV NLQTALGYYN QSEAGSHTIQ
+     MMSGCDLGPD GRLLRGYDQH AYDGKDYISL NEDLRSWTAA DVAAQITQRK WEAANEAERT
+     RAYLEGTCVE WLHRYLENGK ETLQRAEPPK THVTHHPVSD HEATLRCWAL GFYPAEITLT
+     WQRDGEDQTQ DMELVETRPT GNGTFQKWAA VVVLSGEEHR YTCHVQHEGL PEPLTLRWEP
+     PSQPTIPIMG IVAILAILGA VVTGAVVTAV MWRKKSSDKK GGSYSQAARS DSAQGSDVSL
+     TACKV
+//
